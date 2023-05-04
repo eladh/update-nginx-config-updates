@@ -2,3 +2,26 @@ nginx_servers:
   - nginx1:8001
   - nginx2:8003
   - nginx3:8005
+  - nginx4:8007
+  - nginx5:8009
+  - nginx6:8011
+  - nginx7:8013
+  - nginx8:8015
+  - nginx9:8017
+  - nginx10:8019
+  - nginx11:8021
+  - nginx12:8023
+  - nginx13:8025
+  - nginx14:8027
+  - nginx15:8029
+  - nginx16:8031
+  - nginx17:8033
+  - nginx18:8035
+  - nginx19:8037
+  - nginx20:8039
+  - nginx21:8041
+  - nginx22:8043
+  - nginx23:8045
+  - nginx24:8047
+  - nginx25:8049
+  - nginx26:8051
